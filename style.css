@@ -1,0 +1,88 @@
+
+img 1{
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+#example1 {
+  border: 2px solid black;
+  padding: 0px;
+  background: url(201.webp);
+  background-repeat: no-repeat;
+  background-size: 1500px;
+    margin-top: 0px;
+    margin-bottom: 0px;;
+   
+}
+#example2 {
+  border: 2px solid black;
+  padding: 0px;
+  background: url(Free-Download-3D-HQ-Backgrounds.jpg);
+  background-repeat: no-repeat;
+  background-size: 1500px;
+     margin-top: 0px;
+  
+
+    
+}
+
+body {
+   color: white;
+     height: 200px;
+ 
+}
+#back{
+     margin-top: 0px; 
+    padding: 0px;
+
+
+    
+    
+}
+footter{
+    padding: 0px;
+}
+#back1{
+     margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+  height: auto;
+}
+
+a1{ 
+	text-align: center; 
+	background: #00ECB9; 
+font-family: sans-serif; 
+font-weight: 50; 
+} 
+h1{ 
+color: #396; 
+font-weight: 100; 
+font-size: 20px; 
+margin: 40px 0px 20px; 
+} 
+#clockdiv{ 
+	font-family: sans-serif; 
+	color: #fff; 
+	display: inline-block; 
+	font-weight: 100; 
+	text-align: center; 
+	font-size: 30px; 
+   
+} 
+#clockdiv > div{ 
+	padding: 5px; 
+	border-radius: 3px; 
+	background: #00BF96; 
+	display: inline-block; 
+} 
+#clockdiv div > span{ 
+	padding: 15px; 
+	border-radius: 3px; 
+	background: #00816A; 
+	display: inline-block; 
+} 
+smalltext{ 
+	padding-top: 5px; 
+	font-size: 16px; 
+} 
+
